@@ -5,8 +5,8 @@
   
   Experience
   : *Some.*[^1]  
-  <br>Salesforce Familiarity</br>
-  <br>Soft Skills for people and team management
+       <br>Salesforce Familiarity</br>
+       <br>Soft Skills for people and team management
 
   [^1]: Got a bachelor's in International Business Ops, but I'm starting from ground 0 in terms of coding.
   Udemy Salesforce Developer Course (finished May 2022)
