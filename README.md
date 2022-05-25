@@ -4,10 +4,10 @@
  **Goal: Understand the software engineering industry better so I can become a better Project Manager.**
   
   Experience
-  : *Some.*[^1] Salesforce familiarity (developer & administrator). Soft Skills for people and team management
+  : *Some.*[^1] Salesforce familiarity (developer*[^2] & administrator). Soft Skills for people and team management
 
   [^1]: Got a bachelor's in International Business Ops, but I'm starting from ground 0 in terms of coding.
-  Udemy Salesforce Developer Course (finished May 2022)
+  [^2]: Udemy Salesforce Developer Course (finished May 2022)
  
 First Repository
 : meh
