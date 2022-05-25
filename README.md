@@ -1,11 +1,14 @@
 # hello-world
 ## Just Trying Things Out
 ---
-**Goal: Understand the software engineering industry better so I can become a better Project Manager.**
+<br>**Goal: Understand the software engineering industry better so I can become a better Project Manager.**</br>
   
   Experience
-  : *None.*[^1]
+  : *Some.*[^1]
   [^1]: Got a bachelor's in International Business Ops, but I'm starting from ground 0 in terms of coding.
+  Udemy Salesforce Developer Course (finished May 2022)
+  Salesforce Familiarity
+  Soft Skills for people and team management
 
 First Repository
 : meh
